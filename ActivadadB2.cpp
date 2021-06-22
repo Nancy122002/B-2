@@ -18,8 +18,14 @@ for(int i=0;i<10;i++){
 	cout<<matriz2[i];
 	cout<<",";
 }
+// Suma de matrices
+Cout<<endl;
+For(int i=0;i<10;i++){
+   Suma[i]=matriz[i]+matriz2[i];
+   Cout<<suma[i];
+    Cout<<",";
 //╔══════════════════════════════════════════════════════╗
-//║    ESTA PARTE LA REALIZO                             ║
+//║    ESTA PARTE LA REALIZO  Ortiz Gonzales Evelin Mayenni                           ║
 //╚══════════════════════════════════════════════════════╝ 
 	
 	
