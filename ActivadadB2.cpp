@@ -31,7 +31,31 @@ For(int i=0;i<10;i++){
 	
 //╔══════════════════════════════════════════════════════╗
 //║    ESTA PARTE LA REALIZO                             ║
+//╚══════════════════════════════════════════════════════╝ 
+	
+	
+	
+	
+	
+//╔══════════════════════════════════════════════════════╗
+//║   TODAS APORTAMOS                                    ║
 //╚══════════════════════════════════════════════════════╝ 	
+//multiplicacion de matrices
+cout<<endl;
+for(int i=0;i<10;i++){
+	producto[i]=0;
+  producto[10]=(matriz1[i]* matriz2[i]);
+   cout<<producto[i];
+   	cout<<" ";
+   	
+	   }
+ //DIVISIONde matrices
+cout<<endl;
+for(int i=0;i<10;i++){
+	division[i]=matriz1[i]/matriz2[i];
+	cout<<division[i];
+	cout<<" " ;
+	
 return 0;
 
 }
