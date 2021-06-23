@@ -34,9 +34,15 @@ For(int i=0;i<10;i++){
 	}	
 	
 //╔══════════════════════════════════════════════════════╗
-//║    ESTA PARTE LA REALIZO                             ║
+//║    ESTA PARTE LA REALIZO      Jama Ramirez Patricia Pilar                       ║
 //╚══════════════════════════════════════════════════════╝ 
-	
+	//resta de matrices
+Cout<<endl;
+for(int i=0;i<10;i++){
+resta[i]=matriz1[i]-matriz2[i];
+cout<<resta[i];
+cout<<"",;
+        }
 	
 	
 	
