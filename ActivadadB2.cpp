@@ -1,3 +1,7 @@
+//╔══════════════════════════════════════════════════════╗
+//║ INTEGRANTE:                                          ║
+//║  VALLECILLANNANCY-ORTIZ GOZALEZ EVELIN-JAMA PATRICIA ║
+//╚══════════════════════════════════════════════════════╝ 
 #include<iostream>
 using namespace std;
 int main()
